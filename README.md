@@ -4,11 +4,11 @@ Bienvenidos al repositorio oficial del curso **Estructuras de Datos en Rust: Edi
 
 ---
 
-## 📚 Estructura del Curso
+##  Estructura del Curso
 
 El curso está compuesto por **7 módulos pedagógicos**, distribuidos a lo largo de **14 semanas**, incluyendo una semana intermedia de ajuste de ritmo.
 
-### 🧭 Plan Semanal
+###  Plan Semanal
 
 | Módulo             | Semana(s)     | Tema Principal                              | Actividades Destacadas                                                                 |
 |--------------------|---------------|---------------------------------------------|----------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ El curso está compuesto por **7 módulos pedagógicos**, distribuidos a lo larg
 
 ---
 
-## 📁 Organización del Repositorio
+##  Organización del Repositorio
 
 ```bash
 ├── Modulo_0/
@@ -55,15 +55,15 @@ El curso está compuesto por **7 módulos pedagógicos**, distribuidos a lo larg
 
 Cada semana contiene:
 
-- 🎓 `presentacion.pdf`: Diapositivas educativas con ejemplos.
-- 💻 `lab_nombre.rs`: Laboratorios de práctica.
-- 🧪 `quiz_nombre.md`: Evaluaciones semanales tipo quiz.
-- 🧩 `reto_nombre.md`: Retos con propósito educativo o social.
-- ✅ `resueltos/`: Soluciones detalladas.
+-  `presentacion.pdf`: Diapositivas educativas con ejemplos.
+-  `lab_nombre.rs`: Laboratorios de práctica.
+-  `quiz_nombre.md`: Evaluaciones semanales tipo quiz.
+-  `reto_nombre.md`: Retos con propósito educativo o social.
+-  `resueltos/`: Soluciones detalladas.
 
 ---
 
-## ✍️ Autora
+## Autora
 
 **Kristel Segura**  
 *Ingeniera de Software | Apasionada por la IA y la Seguridad | Educadora y Mentora*
@@ -74,15 +74,15 @@ Diseñé este material para que los estudiantes no solo aprendan a programar, si
 
 ---
 
-## 🌟 Licencia y Uso
+## Licencia y Uso
 
 Este curso es de uso **libre, educativo y colaborativo**. Puedes adaptarlo y compartirlo, siempre que se mantenga la autoría y el enfoque en el aprendizaje con propósito. 💛
 
 ---
 
-## 🚀 Mensaje Final
+## Mensaje Final
 
-> ✨ _No estás aprendiendo solo Rust. Estás forjando tu lógica, tu creatividad y tu confianza._  
+>  _No estás aprendiendo solo Rust. Estás forjando tu lógica, tu creatividad y tu confianza._  
 >  
 > Bienvenido a una experiencia de aprendizaje que cree en ti desde la primera línea de código.
 
