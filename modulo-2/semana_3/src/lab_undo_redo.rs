@@ -81,7 +81,11 @@ impl EditorTexto {
         if self.pila_undo.size() > 1 { // Debe haber al menos un estado anterior al actual
             let estado_actual = self.pila_undo.pop().unwrap(); // Sacamos el estado actual
             self.pila_redo.push(estado_actual); // Lo movemos a la pila de rehacer
-            self.contenido = self.pila_undo.peek().unwrap().clone(); // Restauramos el estado anterior
+            if let Some(estado_anterior) = self.pila_undo.peek() {
+                self.contenido = estado_anterior.clone(); // Restauramos el estado anterior
+            } else {
+                println!("Error: No se pudo obtener el estado anterior de la pila de undo.");
+            }
             println!("\n--- Deshaciendo ---");
             self.mostrar_contenido();
         } else {
