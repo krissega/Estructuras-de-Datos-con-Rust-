@@ -134,3 +134,4 @@ A continuación, se detallan las tareas que debes completar en el archivo `src/l
 Estas preguntas son para que pienses un poco más allá del código y refuerces tu comprensión. No necesitas escribir las respuestas en el archivo `lab_queue_simulator.rs`, pero puedes discutirlas con tus compañeros o con tu profesor.
 
 1.  **Mutabilidad:**
+    - ¿Por qué es necesario que la variable `fila_clientes` sea mutable (`mut`) para poder agregar y quitar elementos de la cola? ¿Qué pasaría si intentaras modificar una variable que no es mutable en Rust?
