@@ -1,3 +1,5 @@
+// Filename: lab_semana5_solucion.rs
+//
 // Solución completa para el Laboratorio 1 de Listas Enlazadas.
 // Este archivo contiene la implementación correcta de la Lista Enlazada básica,
 // con los métodos `new()`, `push_front()` y `print_list()` resueltos.
